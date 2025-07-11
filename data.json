@@ -4,23 +4,23 @@
             "width": 1024,
             "height": 683
         },
-        "url" : "./images/toy-game-lrg.jpg",
-        "description1": "Industry City, Brooklyn", 
-        "description2": "June 2025",
-        "backgroundColor": "#181818",
-        "color": "#e0e0e0"
-    }, 
+        "url" : "./images/lanterns-lrg.jpg",
+        "description1": "Industry City, Brooklyn",
+        "description2": "July 2025",
+        "backgroundColor": "#f9e8d6",
+        "color": "#181818"
+    },
     {
         "size": {
             "width": 1024,
             "height": 683
         },
-        "url" : "./images/japanklyn-lrg.jpg",
-        "description1": "Industry City, Brooklyn",
+        "url" : "./images/toy-game-lrg.jpg",
+        "description1": "Industry City, Brooklyn", 
         "description2": "June 2025",
-        "backgroundColor": "#fffdf2",
-        "color": "#181818"
-    },
+        "backgroundColor": "#c9c9c9",
+        "color": "#e0e0e0"
+    }, 
     {
         "size": {
             "width": 1024,
@@ -73,7 +73,7 @@
         "url" : "./images/dino2-lrg.jpg",
         "description1": "American Museum of Natural History, New York", 
         "description2": "January 2025",
-        "backgroundColor": "#212020",
+        "backgroundColor": "#d6d4d4",
         "color": "#e0e0e0"        
     },
     {
@@ -97,17 +97,6 @@
         "description1": "Industry City, Brooklyn", 
         "description2": "December 2025",
         "backgroundColor": "#fffdf2",
-        "color": "#181818"
-    }, 
-    {
-        "size": {
-            "width": 1024,
-            "height": 683
-        },
-        "url" : "./images/hotdogs-lrg.jpg",
-        "description1": "Midtown, New York", 
-        "description2": "December 2025",
-        "backgroundColor": "#fffef7",
         "color": "#181818"
     }
 ]
