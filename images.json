@@ -1,0 +1,91 @@
+[
+    {
+        "url" : "./images/highline-city.jpg",
+        "description": "Highline View",
+        "date": "8/30/2025",
+        "rating": 4,
+        "tags": ["urban", "landscape", "color"]
+    },
+    {
+        "url" : "./images/highline-building.jpg",
+        "description": "Highline Building",
+        "date": "8/30/2025",
+        "rating": 4,
+        "tags": ["urban", "architecture", "black and white"]
+    },
+    {
+        "url" : "./images/highline-path.jpg",
+        "description": "Highline Path",
+        "date": "8/30/2025",
+        "rating": 3,
+        "tags": ["urban", "architecture", "black and white"]
+    },
+    {
+        "url" : "./images/highline-path2.jpg",
+        "description": "Highline Path",
+        "date": "8/30/2025",
+        "rating": 2,
+        "tags": ["urban", "black and white"]
+    },
+    {
+        "url" : "./images/highline-pigeon.jpg",
+        "description": "Highline Pigeon",
+        "date": "8/30/2025",
+        "rating": 1,
+        "tags": ["urban", "black and white", "family"],
+        "layout": "portrait"
+    },
+    {
+        "url" : "./images/trinity-college.jpg",
+        "description": "Trinity College",
+        "date": "8/18/2025",
+        "rating": 2,
+        "tags": ["urban", "black and white", "ireland"]
+    },
+    {
+        "url" : "./images/lanterns-lrg.jpg",
+        "description1": "Industry City, Brooklyn",
+        "description2": "July 2025"
+    },
+    {
+        "url" : "./images/toy-game-lrg.jpg",
+        "description1": "Industry City, Brooklyn", 
+        "description2": "June 2025"
+    }, 
+    {
+        "url" : "./images/katz-lrg.jpg",
+        "description1": "Dekalb Market, Brooklyn",
+        "description2": "April 2025"
+    },
+    {
+        "url" : "./images/figures-lrg.jpg",
+        "description1": "Industry City, Brooklyn", 
+        "description2": "March 2025"
+    }, 
+    {
+        "url" : "./images/bowl-lrg-2.jpg",
+        "description1": "Industry City, Brooklyn",
+        "description2": "March 2025",
+        "layout": "portrait"
+    },
+    {
+        "url" : "./images/dino3-lrg.jpg",
+        "description1": "American Museum of Natural History, New York", 
+        "description2": "January 2025"
+    },
+    {
+        "url" : "./images/dino2-lrg.jpg",
+        "description1": "American Museum of Natural History, New York", 
+        "description2": "January 2025"
+    },
+    {
+        "url" : "./images/arcade-lrg.jpg",
+        "description1": "Industry City, Brooklyn", 
+        "description2": "December 2025"
+    }, 
+    {
+        "url" : "./images/ic-lights-lrg.jpg",
+        "description1": "Industry City, Brooklyn", 
+        "description2": "December 2025"
+    }
+]
