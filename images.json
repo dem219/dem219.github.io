@@ -46,14 +46,14 @@
         "url" : "./images/trinity-college.jpg",
         "description": "Trinity College, Ireland",
         "date": "8/18/2025",
-        "rating": 0,
+        "rating": 2,
         "tags": ["urban", "black and white", "ireland"]
     },
     {
         "url" : "./images/trinity-library.jpg",
         "description": "Trinity College, Ireland",
         "date": "8/18/2025",
-        "rating": 2,
+        "rating": 1,
         "tags": ["black and white", "ireland"]
     },
     {
