@@ -53,7 +53,7 @@
         "url" : "./images/trinity-library.jpg",
         "description": "Trinity College, Ireland",
         "date": "8/18/2025",
-        "rating": 1,
+        "rating": 0,
         "tags": ["black and white", "ireland"]
     },
     {
@@ -64,49 +64,25 @@
         "tags": ["nature", "black and white", "ireland", "landscape"]
     },
     {
-        "url" : "./images/lanterns-lrg.jpg",
-        "description1": "Industry City, Brooklyn",
-        "description2": "July 2025"
+        "url" : "./images/arcade.jpg",
+        "description": "Industry City",
+        "date": "11/23/2024",
+        "rating": 3,
+        "tags": ["brooklyn", "color"]
     },
     {
-        "url" : "./images/toy-game-lrg.jpg",
-        "description1": "Industry City, Brooklyn", 
-        "description2": "June 2025"
-    }, 
-    {
-        "url" : "./images/katz-lrg.jpg",
-        "description1": "Dekalb Market, Brooklyn",
-        "description2": "April 2025"
+        "url" : "./images/night-cart.jpg",
+        "description": "Food Cart at Night",
+        "date": "11/25/2024",
+        "rating": 1,
+        "tags": ["color", "new york", "urban"]
     },
     {
-        "url" : "./images/figures-lrg.jpg",
-        "description1": "Industry City, Brooklyn", 
-        "description2": "March 2025"
-    }, 
-    {
-        "url" : "./images/bowl-lrg-2.jpg",
-        "description1": "Industry City, Brooklyn",
-        "description2": "March 2025",
+        "url" : "./images/bowls.jpg",
+        "description": "Bowls, Industy City",
+        "date": "12/8/2024",
+        "rating": 3,
+        "tags": ["black and white", "brooklyn"],
         "layout": "portrait"
-    },
-    {
-        "url" : "./images/dino3-lrg.jpg",
-        "description1": "American Museum of Natural History, New York", 
-        "description2": "January 2025"
-    },
-    {
-        "url" : "./images/dino2-lrg.jpg",
-        "description1": "American Museum of Natural History, New York", 
-        "description2": "January 2025"
-    },
-    {
-        "url" : "./images/arcade-lrg.jpg",
-        "description1": "Industry City, Brooklyn", 
-        "description2": "December 2025"
-    }, 
-    {
-        "url" : "./images/ic-lights-lrg.jpg",
-        "description1": "Industry City, Brooklyn", 
-        "description2": "December 2025"
     }
 ]
