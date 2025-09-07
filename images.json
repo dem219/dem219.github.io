@@ -46,7 +46,7 @@
         "url" : "./images/trinity-college.jpg",
         "description": "Trinity College, Ireland",
         "date": "8/18/2025",
-        "rating": 2,
+        "rating": 0,
         "tags": ["urban", "black and white", "ireland"]
     },
     {
@@ -84,5 +84,205 @@
         "rating": 3,
         "tags": ["black and white", "brooklyn"],
         "layout": "portrait"
-    }
+    },
+    {
+        "url" : "./images/bones.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 4,
+        "tags": ["black and white", "new york"]
+    },
+    {
+        "url" : "./images/dino.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 3,
+        "tags": ["black and white", "new york"]
+    },
+    {
+        "url" : "./images/ocean-hall.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 3,
+        "tags": ["black and white", "new york"]
+    },
+    {
+        "url" : "./images/ocean-hall2.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 0,
+        "tags": ["black and white", "new york"],
+        "layout": "portrait"
+    },
+    {
+        "url" : "./images/ocean-hall3.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 3,
+        "tags": ["black and white", "new york"]
+    },
+    {
+        "url" : "./images/bear.jpg",
+        "description": "American Museum of Natural History",
+        "date": "12/27/2024",
+        "rating": 3,
+        "tags": ["black and white", "new york"]
+    }, 
+    {
+        "url" : "./images/industry-lights.jpg",
+        "description": "Industry City",
+        "date": "12/29/2024",
+        "rating": 3,
+        "tags": ["black and white", "brooklyn"]
+    },
+    {
+        "url" : "./images/katz.jpg",
+        "description": "Katz",
+        "date": "1/4/2025",
+        "rating": 2,
+        "tags": ["color", "brooklyn", "urban"]
+    },
+    {
+        "url" : "./images/figures.jpg",
+        "description": "Industy City",
+        "date": "1/25/2025",
+        "rating": 3,
+        "tags": ["color", "brooklyn", "people"]
+    },
+    {
+        "url" : "./images/scarf.jpg",
+        "description": "Dumbo Flea",
+        "date": "6/1/2025",
+        "rating": 3,
+        "tags": ["street", "brooklyn", "urban", "color", "people"]
+    }, 
+    {
+        "url" : "./images/hipster.jpg",
+        "description": "Dumbo Flea",
+        "date": "6/1/2025",
+        "rating": 3,
+        "tags": ["street", "brooklyn", "urban", "black and white", "people"]
+    },
+    {
+        "url" : "./images/flea.jpg",
+        "description": "Dumbo Flea",
+        "date": "6/1/2025",
+        "rating": 3,
+        "tags": ["street", "brooklyn", "urban", "color", "people"]
+    },
+    {
+        "url" : "./images/dumbo.jpg",
+        "description": "Dumbo Flea",
+        "date": "6/1/2025",
+        "rating": 0,
+        "tags": ["street", "brooklyn", "urban", "color", "people"]
+    },
+    {
+        "url" : "./images/train-skyline2.jpg",
+        "description": "Brooklyn Skyline",
+        "date": "6/12/2025",
+        "rating": 2,
+        "tags": ["landscape", "brooklyn", "urban", "black and white"]
+    },
+    {
+        "url" : "./images/train-skyline3.jpg",
+        "description": "Brooklyn Skyline",
+        "date": "6/12/2025",
+        "rating": 2,
+        "tags": ["landscape", "brooklyn", "urban", "black and white"]
+    },
+    {
+        "url" : "./images/umbrellas.jpg",
+        "description": "Umbrellas",
+        "date": "6/14/2025",
+        "rating": 2,
+        "tags": ["new york", "urban", "black and white"],
+        "layout": "portrait"
+    },
+    {
+        "url" : "./images/lanterns.jpg",
+        "description": "Lanterns",
+        "date": "7/11/2025",
+        "rating": 3,
+        "tags": ["brooklyn", "urban", "color"]
+    },
+    {
+        "url" : "./images/tourists.jpg",
+        "description": "Midtown NYC",
+        "date": "1/22/2025",
+        "rating": 4,
+        "tags": ["new york", "urban", "black and white", "street", "people"]
+    },
+    {
+        "url" : "./images/moma-street.jpg",
+        "description": "MOMA window",
+        "date": "8/1/2025",
+        "rating": 2,
+        "tags": ["new york", "urban", "black and white"]
+    },
+    {
+        "url" : "./images/stop.jpg",
+        "description": "Williamsburg",
+        "date": "8/2/2025",
+        "rating": 0,
+        "tags": ["brooklyn", "urban", "black and white", "people"]
+    },
+    {
+        "url" : "./images/squint.jpg",
+        "description": "Williamsburg",
+        "date": "8/2/2025",
+        "rating": 0,
+        "tags": ["brooklyn", "urban", "black and white", "people"]
+    },
+    {
+        "url" : "./images/rockcenter1.jpg",
+        "description": "Rockefeller Center",
+        "date": "8/4/2025",
+        "rating": 0,
+        "tags": ["new york", "urban", "black and white"],
+        "layout": "portrait"
+    },
+    {
+        "url" : "./images/rockcenter2.jpg",
+        "description": "Rockefeller Center",
+        "date": "8/4/2025",
+        "rating": 3,
+        "tags": ["new york", "urban", "black and white"]
+    },
+    {
+        "url" : "./images/rockcenter3.jpg",
+        "description": "Rockefeller Center",
+        "date": "8/4/2025",
+        "rating": 3,
+        "tags": ["new york", "urban", "black and white"]
+    },
+    {
+        "url" : "./images/dublin-castle.jpg",
+        "description": "Dublin Castle",
+        "date": "8/18/2025",
+        "rating": 3,
+        "tags": ["ireland", "architecture", "black and white"]
+    },
+    {
+        "url" : "./images/christ-church.jpg",
+        "description": "Christ Church",
+        "date": "8/18/2025",
+        "rating": 0,
+        "tags": ["ireland", "architecture", "black and white"]
+    },  
+    {
+        "url" : "./images/kylemore-abbey1.jpg",
+        "description": "Kylemore Abbey",
+        "date": "8/16/2025",
+        "rating": 0,
+        "tags": ["ireland", "architecture", "color"]
+    },
+    {
+        "url" : "./images/kylemore-abbey2.jpg",
+        "description": "Kylemore Abbey",
+        "date": "8/16/2025",
+        "rating": 3,
+        "tags": ["ireland", "architecture", "color"]
+    }                           
+
 ]
